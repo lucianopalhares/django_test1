@@ -24,5 +24,8 @@ o que faz ocorrer erro, pois meu metodo nao requer parametro
 
 ![Criar endpoint /sobre sem passar request](./prints/url-sobre-error-request.png)
 
+## O endpoint /sobre tem request mas nao tem response:
+
+![Criar endpoint /sobre sem passar request](./prints/url-sobre-error-request-sem-response.png)
 
 

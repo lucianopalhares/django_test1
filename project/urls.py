@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 
 
-def my_view():
+def my_view(request):
     ...
 
 urlpatterns = [
