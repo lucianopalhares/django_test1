@@ -14,3 +14,15 @@ django-admin startproject project .
 ```
 python3 manage.py runserver
 ```
+
+## Criar endpoint /sobre sem passar request:
+
+```
+mesmo sem passar parametro no metodo, automaticamente o codigo passa
+o que faz ocorrer erro, pois meu metodo nao requer parametro
+``` 
+
+![Criar endpoint /sobre sem passar request](./prints/url-sobre-error-request.png)
+
+
+
